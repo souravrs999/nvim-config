@@ -1,0 +1,27 @@
+{
+    "workspace.library": [
+        "/Users/souravrs/.config/nvim",
+        "/Users/souravrs/.local/share/nvim/site",
+        "/Users/souravrs/.local/share/nvim/site/pack/packer/start/github-nvim-theme",
+        "/Users/souravrs/.local/share/nvim/site/pack/packer/start/gitsigns.nvim",
+        "/Users/souravrs/.local/share/nvim/site/pack/packer/start/impatient.nvim",
+        "/Users/souravrs/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim",
+        "/Users/souravrs/.local/share/nvim/site/pack/packer/start/nvim-autopairs",
+        "/Users/souravrs/.local/share/nvim/site/pack/packer/start/nvim-comment",
+        "/Users/souravrs/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+        "/Users/souravrs/.local/share/nvim/site/pack/packer/start/nvim-notify",
+        "/Users/souravrs/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
+        "/Users/souravrs/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
+        "/Users/souravrs/.local/share/nvim/site/pack/packer/start/nvim-web-devicons",
+        "/Users/souravrs/.local/share/nvim/site/pack/packer/start/packer.nvim",
+        "/Users/souravrs/.local/share/nvim/site/pack/packer/start/plenary.nvim",
+        "/Users/souravrs/.local/share/nvim/site/pack/packer/start/telescope-fzf-native.nvim",
+        "/Users/souravrs/.local/share/nvim/site/pack/packer/start/telescope.nvim",
+        "/Users/souravrs/.local/share/nvim/site/pack/packer/start/toggleterm.nvim",
+        "/Users/souravrs/.local/share/nvim/site/pack/packer/opt/lualine.nvim",
+        "/usr/local/Cellar/neovim/0.8.3/share/nvim/runtime",
+        "/usr/local/Cellar/neovim/0.8.3/lib/nvim",
+        "${3rd}/luassert/library"
+    ],
+    "workspace.checkThirdParty": false
+}
